@@ -42,5 +42,5 @@
 ---
 
 ### 🌐 Connect with Me
-- 💼 LinkedIn: [Your Profile Link](https://linkedin.com/in/YOUR_LINKEDIN)
-- 🌐 Portfolio / Website: [alaahussein.pp.ua](https://alaahussein.pp.ua)
+- 💼 LinkedIn: [Your Profile Link](https://www.linkedin.com/in/alaa-hussein002/)
+- 🌐 Portfolio / Website: [alaahussein.pp.ua](https://alaahussein.vercel.app/)
